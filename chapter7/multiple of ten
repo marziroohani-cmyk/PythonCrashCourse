@@ -1,0 +1,3 @@
+num=int(input("enter a number to check"))
+if num%10==0 :
+    print("its multiple of ten")
